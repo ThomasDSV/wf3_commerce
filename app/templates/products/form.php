@@ -1,3 +1,4 @@
+<br/>
 <form method="POST">
 	<div>
 		<label for="name">Libellé : </label>
@@ -13,7 +14,7 @@
 	</div>
 	<div>
 		<label for="price">Prix : </label>
-		<input type="number" id="price" name="price" value=""/>
+		<input type="text" id="price" name="price" value=""/>
 	</div>
 	
 	<button type="submit">Envoyer</button>
